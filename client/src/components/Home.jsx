@@ -11,6 +11,9 @@ export default function Home() {
               <strong>Software Engineer & Data Analyst</strong> dedicated to creating
               efficient, reliable, and future-ready solutions.
             </p>
+            <p className="new-para">
+              I thrive in collaborative environments, continuously exploring emerging technologies to build scalable and innovative software solutions that solve real-world problems."
+            </p>
           </div>
 
           {/* --- Welcome Text --- */}

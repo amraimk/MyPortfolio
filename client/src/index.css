@@ -247,6 +247,15 @@ main {
   width: 100%;
 }
 
+.new-para {
+  font-size: 1.1rem;
+  color: #747474;
+  line-height: 1.6;
+  margin-top: 1rem;
+  margin-right: 5rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
 .home-welcome-text p {
   font-size: 1.2rem;
   color: #122620;
